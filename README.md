@@ -2,5 +2,5 @@
 1. [What is it all about?](#intro)
 
 # What is it all about?
-Hello there! :wave: So nice of You to come around!  
-
+Hello there!:wave: So nice of You to come around!  
+This repository is primarly aimed, to serve as a **personal programming diary** (as it is named) and a **resume** for potential future employers.
