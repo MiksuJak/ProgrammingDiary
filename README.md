@@ -10,6 +10,6 @@ You would find there **data science** projects containing:
 * :yellow_circle::large_blue_circle: some **Python** files  
 * :blue_square: Occasionaly some **R** files  
 
-And also some **frontend** projects hopefully adding some **crypto** flavour with:
+And also some **frontend** projects, hopefully adding some **crypto** flavour, containing:
 * :yellow_square::black_circle: **Java Script**
 * :black_large_square::purple_circle: **Solidity**
