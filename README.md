@@ -2,4 +2,5 @@
 1. [What is it all about?](#intro)
 
 # What is it all about?
-Hello there! So nice of You to come around! 
+Hello there! :wave: So nice of You to come around!  
+
