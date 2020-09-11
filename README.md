@@ -8,7 +8,7 @@ This repository is primarly aimed, to serve as a **personal programming diary** 
 You would find there **data science** projects containing:  
 * :orange_square::white_circle: **Jupyter Notebook** analysis  
 * :yellow_circle::large_blue_circle: some **Python** files  
-* :white_large_square::large_blue_circle: Occasionaly some **R** files  
+* :white_large_square::large_blue_circle: Occasionaly some **R** files(not my favourite choice)  
 
 And also some **frontend** projects, hopefully adding some **crypto** flavour, containing:
 * :yellow_square::black_circle: **Java Script**
