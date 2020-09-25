@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.board {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.col {
+    margin: 1px;
+}
+
+.field {
+    height: 30px;
+    width: 30px;
+    background-color: gray;
+    margin: 1px;
+}
+
+.snakebody {
+    height: 30px;
+    width: 30px;
+    background-color: green;
+    margin: 1px;
+}
+
+.apple {
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    margin: 1px;
+}
