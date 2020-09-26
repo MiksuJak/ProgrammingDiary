@@ -70,7 +70,7 @@ class Game {
                 clearInterval(intervalIndex);
             }
             this.makeMove(currentDirectionIntent);
-        }, 100)
+        }, 150)
         
     }
 }
