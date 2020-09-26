@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.board {
+    margin-top: 30px;
+}
+
+.row {
+    margin: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.field {
+    height: 30px;
+    width: 30px;
+    background-color:#e6e6e6;
+    margin: 1px;
+}
+
+.snakebody {
+    height: 30px;
+    width: 30px;
+    background-color: #99ff66;
+    margin: 1px;
+}
+
+.apple {
+    height: 30px;
+    width: 30px;
+    background-color: #ff471a;
+    margin: 1px;
+}
+
+.startButton {
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    padding: 10px 60px;
+    font-size: 40px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    background-color: white;
+    border-color: #333;
+    border-style: solid;
+    border-width: 7px;
+    color: #333;
+    cursor: pointer;
+    letter-spacing: 6px;
+}
+
+.buttonWrapper {
+    text-align: center;
+    margin-top: 10px;
+}
