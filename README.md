@@ -16,3 +16,16 @@ And also some partially **frontend** projects, mostly for more appealing visuali
 * :black_large_square::purple_square: **Solidity**
 
 # Simple 'snake game' but deep taught
+
+## Concept
+
+
+## Languages/Technologies used
+* :yellow_square::black_circle: vanilla **Java Script** - for both game core and frontend
+* :orange_square::orange_square: basic **HTML**
+* :blue_square::white_circle: basic **CSS**
+
+
+## Links
+* Project folder with more info and all of the code - [here](https://github.com/MiksuJak/ProgrammingDiary/tree/master/SnakeProject)
+* Try the game Yourself - [here](https://htmlpreview.github.io/?https://github.com/MiksuJak/ProgrammingDiary/blob/master/SnakeProject/snake.html)
