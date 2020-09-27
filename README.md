@@ -21,7 +21,7 @@ And also some partially **frontend** projects, mostly for more appealing visuali
 
 
 ## Languages/Technologies used
-* :yellow_square::black_circle: vanilla **Java Script** - for both game core and frontend
+* :yellow_square::black_circle: **Java Script** - for both game core and frontend
 * :orange_square::orange_square: basic **HTML**
 * :blue_square::white_circle: basic **CSS**
 
