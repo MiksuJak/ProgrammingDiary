@@ -1,5 +1,6 @@
 # Table of Contents
 1. [What is it all about?](#intro)
+2. [Simple 'snake game' but deep taught](#project1)
 
 # What is it all about?
 Hello there!:wave: So nice of You to come around!  
@@ -10,6 +11,8 @@ You would find there **data science** projects containing:
 * :yellow_circle::large_blue_circle: some **Python** files  
 * :white_large_square::large_blue_circle: Occasionaly some **R** files(not my favourite choice)  
 
-And also some **frontend** projects, hopefully adding some **crypto** flavour, containing:
+And also some partially **frontend** projects, mostly for more appealing visualization of my other interests, hopefully adding some **crypto** flavour, containing:
 * :yellow_square::black_circle: **Java Script**
 * :black_large_square::purple_square: **Solidity**
+
+# Simple 'snake game' but deep taught
